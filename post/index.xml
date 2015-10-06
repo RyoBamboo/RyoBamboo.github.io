@@ -3,7 +3,7 @@
   <channel>
       <title>Posts on Bamblog </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/post/index.xml/</link>
+    <link>http://ryobamboo.github.io/post/index.xml/</link>
     
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>hogehoge</title>
-      <link>http://localhost:1313/post/hogehoge/</link>
+      <link>http://ryobamboo.github.io/post/hogehoge/</link>
       <pubDate>Tue, 06 Oct 2015 16:13:26 JST</pubDate>
       
-      <guid>http://localhost:1313/post/hogehoge/</guid>
+      <guid>http://ryobamboo.github.io/post/hogehoge/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
 
 &lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>test</title>
-      <link>http://localhost:1313/post/test/</link>
+      <link>http://ryobamboo.github.io/post/test/</link>
       <pubDate>Thu, 25 Jun 2015 23:53:49 JST</pubDate>
       
-      <guid>http://localhost:1313/post/test/</guid>
+      <guid>http://ryobamboo.github.io/post/test/</guid>
       <description></description>
     </item>
     
